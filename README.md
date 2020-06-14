@@ -19,6 +19,7 @@ Demo: https://boring-benz-f40cbd.netlify.app/
     - [Create a blog](#create-a-blog)
     - [Introduction / Getting Started / Top Navigation](#introduction--getting-started--top-navigation)
     - [Page heading / TOC structures](#page-heading--toc-structures)
+    - [Home page](#home-page)
 - [Issues](#issues)
   - [Bugs](#bugs)
     - [ScullyRoutesService observable replaces same-name pages in different folders](#scullyroutesservice-observable-replaces-same-name-pages-in-different-folders)
@@ -189,6 +190,14 @@ For example:
 - Some pages don't have an **installation** heading, some don't need an **interface**.
 - But the goal was to have a consistent, hierarchical list of headings / blocks, which individual pages can remove and add where appropriate, to keep the sub-sub-structures of the site as linearly similar and predictable as possible.
   
+
+#### Home page
+- More consolidation of similar phrases, and simplification of possible directions a user could take.
+- The "features" section resizes to its content / doesn't cut off its description text.
+- "Guides" and "Create a blog" buttons seem to be broken links on the current site. These were fixed here too.
+- Footer hopefully has more contrast and is more readable.
+- "Custom" icon for "Best of both worlds", attempting to indicate the fact that Scully solves the issue of SEO for Angular.
+
 
 ## Issues
 
