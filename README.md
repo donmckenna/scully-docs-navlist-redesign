@@ -3,6 +3,9 @@
 
 Demo: https://boring-benz-f40cbd.netlify.app/
 
+Referenced in:
+https://github.com/scullyio/scully/issues/630
+
 - [Explanation](#explanation)
 - [Motivation](#motivation)
 - [Benefits](#benefits)
