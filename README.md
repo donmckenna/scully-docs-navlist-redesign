@@ -3,8 +3,12 @@
 
 Demo: https://boring-benz-f40cbd.netlify.app/
 
-Referenced in:
+Referenced in:  
+https://github.com/scullyio/scully/pull/753  
 https://github.com/scullyio/scully/issues/630
+
+NOTE: This project has since been merged and is live at https://scully.io
+
 
 - [Explanation](#explanation)
 - [Motivation](#motivation)
